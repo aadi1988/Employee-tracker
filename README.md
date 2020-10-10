@@ -1,7 +1,9 @@
 # Employee Tracker
   [![License](<https://img.shields.io/static/v1?label=License&message=MIT&color=green>)]()
 ## Description
-View the employee database. Add and update employees, roles and departments. Also get a sum of salarries by department.
+View the employee database. Add and update employees, roles and departments. Also get a sum of salaries by department./
+Screencastify Link: https://drive.google.com/file/d/1Byc6amaIlfzUmB3VDzv01mbV_YhCCuEu/view
+
 ## Table of contents
 [Installation](#installation-instructions)  
 [License](#license)  
